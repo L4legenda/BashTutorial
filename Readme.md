@@ -1,5 +1,5 @@
 # Bash
-'''console
+'''bash
 cd NameFolder/
 
 '''
