@@ -1,7 +1,6 @@
 # Bash
-'''bash
+```bash
 cd NameFolder/
-
-'''
+```
 
 
